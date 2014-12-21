@@ -1,0 +1,23 @@
+body{
+        font:normal normal bold 1.250em ;
+         margin:5%;
+         padding:2%;
+         font-family: 'Abel', sans-serif;
+         }
+      
+         
+  ul.nav-pills{
+       font-size: 1.430em;   
+      } 
+      
+        
+         
+ .jumbotron{
+   color:#9744cb;
+   } 
+   
+   img.mth{
+    width: 250px;
+    height: 400px;
+    }
+  
